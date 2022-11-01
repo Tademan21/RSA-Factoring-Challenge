@@ -1,4 +1,4 @@
-s module contains helper functions for all the other modules used in this
+"""This module contains helper functions for all the other modules used in this
     project
 """
 
