@@ -42,4 +42,4 @@ def isqrt(n):
         y = (n + x // n) // 2
         if y >= x:
             return x
-        x = 
+        x = y
