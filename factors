@@ -1,5 +1,5 @@
-
-m random import randint
+#!/usr/bin/python3
+from random import randint
 
 
 def gcd(a, b):
